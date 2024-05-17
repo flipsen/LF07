@@ -1,1 +1,3 @@
-Hallo du
+print ("Hallo du")
+print ("'Sup Kay")
+
